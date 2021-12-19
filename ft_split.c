@@ -6,7 +6,7 @@
 /*   By: nlalleik <nlalleik@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/04 09:07:05 by nlalleik          #+#    #+#             */
-/*   Updated: 2021/12/19 17:31:19 by nlalleik         ###   ########.fr       */
+/*   Updated: 2021/12/19 17:31:52 by nlalleik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 static size_t	n_count(const char *s, const char c)
 {
 	size_t	n;
-	size_t	i
+	size_t	i;
 
 	i = 0;
 	n = 0;
