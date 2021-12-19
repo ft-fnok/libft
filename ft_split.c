@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: nlalleik <nlalleik@student.42wolfsburg.de> +#+  +:+       +#+        */
+/*   By: nlalleik <nlalleik@students.42wolfsburg.de +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/04 09:07:05 by nlalleik          #+#    #+#             */
-/*   Updated: 2021/12/18 17:38:21 by nlalleik         ###   ########.fr       */
+/*   Updated: 2021/12/19 15:16:01 by nlalleik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

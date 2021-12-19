@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   libft.h                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: nlalleike <nlalleik@students.42wolfsbur    +#+  +:+       +#+        */
+/*   By: nlalleik <nlalleik@students.42wolfsburg.de +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/06 18:33:34 by nlalleik          #+#    #+#             */
-/*   Updated: 2021/12/14 23:19:20 by nlalleike        ###   ########.fr       */
+/*   Updated: 2021/12/19 15:34:07 by nlalleik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
