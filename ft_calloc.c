@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_calloc.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: nlalleik <nlalleik@students.42wolfsburg.de +#+  +:+       +#+        */
+/*   By: nlalleik <nlalleik@student.42wolfsburg.de> +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/28 18:59:29 by nlalleik          #+#    #+#             */
-/*   Updated: 2021/12/19 19:42:00 by nlalleik         ###   ########.fr       */
+/*   Updated: 2021/12/19 22:38:13 by nlalleik         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	*ft_calloc(size_t nelem, size_t elsize)
 
 	c = malloc(nelem * elsize);
 	if (c == NULL)
-		return (0);
+		return (NULL);
 	ft_bzero(c, nelem * elsize);
 	return (c);
 }
